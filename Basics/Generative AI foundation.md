@@ -24,5 +24,23 @@ Directory of tools:
 
 How evaluate?
 
+Specific task Gen AI is good in:
+- summarization
+- pharasing/suggesting edits
+- text generation
+- sentiment analysis
+- language translation
+- generate sample data
+
+Integration and automated in apps
+- important usecase
+
+Agents
+- framework 
+    - autogen (microsoft)
+    - Langchain (python/JS)
+- orchrestration
+    
+
 
 
